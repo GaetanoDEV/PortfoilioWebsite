@@ -151,6 +151,48 @@ header .profile img{
     margin-right: -10rem;
 }
 
+header .python{
+    max-width: 96px;
+    border-radius: 150px;
+}
+
+header .html5{
+    max-width: 80px;
+    border-radius: 150px;
+    margin-top: -27px;
+    margin-left: 100px;
+}
+
+header .c-icon{
+    max-width: 48px;
+    border-radius: 150px;
+    margin-top: -25px;
+    margin-left: 184px;   
+}
+
+header .nodejs{
+    max-width: 96px;
+    border-radius: 150px;
+    margin-top: -26px;
+    margin-left: 240px;   
+}
+
+header .css3{
+    max-width: 75px;
+    border-radius: 150px;
+    margin-top: -27px;
+    margin-left: 340px;   
+}
+
+header .etc{
+    margin-top: -22px;
+    margin-left: 420px;
+    font-size: 3rem;
+    font-weight: 100;
+    
+}
+
+
 section .header{
     margin-bottom: 1rem;
     color: #fff;
