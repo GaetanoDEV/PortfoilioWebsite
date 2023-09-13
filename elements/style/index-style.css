@@ -192,11 +192,11 @@ header .etc{
     
 }
 
-
-section .header{
-    margin-bottom: 1rem;
+.progetti{
     color: #fff;
-    text-align: center;
-    font-size: 2.25rem;
-    font-weight: 600;
+}
+
+hr.linea{
+    border: 1px solid white;
+    max-width: 600px;
 }
