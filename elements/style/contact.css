@@ -27,6 +27,19 @@
     font-size: 1.2rem;
     font-weight: 500;
 }
+.contactcard .card h9{
+    margin-bottom: 1rem;
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.contactcard .card h10{
+    margin-bottom: 1rem;
+    color: #fff;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
 
 .contactcard .card h3{
     color: #fff;
