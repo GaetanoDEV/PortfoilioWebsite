@@ -1,11 +1,11 @@
-.about{
+.contactcard{
     margin-top: -2rem;
-    margin-left: 10rem;
+    margin-left: 13rem;
     display: flex;
     gap: 2rem;
 }
 
-.about .card{
+.contactcard .card{
     padding: 7rem 20rem;
     background-color: #27272a;
     display: flex;
@@ -16,19 +16,19 @@
 }
 
 
-.about .card .content{
+.contactcard .card .content{
     flex: 1;
     margin-bottom: 2rem;
 }
 
-.about .card h4{
+.contactcard .card h4{
     margin-bottom: 1rem;
     color: #fff;
     font-size: 1.2rem;
     font-weight: 500;
 }
 
-.about .card h3{
+.contactcard .card h3{
     color: #fff;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
@@ -37,28 +37,28 @@
     border-bottom: 2px dashed #fff;
 }
 
-.about .card p{
+.contactcard .card p{
     color: #fff;
     margin-bottom: 0.75rem;
 }
 
-.about .card p i{
+.contactcard .card p i{
     color: #ccc;
     font-size: 1.2rem;
     margin-right: 0.3rem;
 }
 
-.about .card button{
+.contactcard .card button{
     color: #fff;
     background-color: transparent;
     border: 2px solid #fff;
 }
 
-.about .card button:hover{
+.contactcard .card button:hover{
     background-color: #1e40af;
     border-color: #1e40af;
 }
 
-.aboutme{
-    color: white;
+.contactme{
+    color: #fff;
 }
