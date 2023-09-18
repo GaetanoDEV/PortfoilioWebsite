@@ -312,3 +312,27 @@ hr.linea{
 .footer a:hover{
     font-size: 27px;
 }
+
+.announcement {
+    display: inline-block;
+    height: 200%;
+    text-align: center;
+    width: 55%;
+    background: #1d4ed8;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+    font-size: 0.9em;
+    margin-left: 29rem;
+    border-radius: 100px;
+  }
+  
+  .announcement a { 
+    color: #ccc; 
+  }
+  
+  .announcement a:hover {
+    color: red;
+  }
